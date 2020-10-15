@@ -45,10 +45,10 @@ npm start
 
 ## Demo App 👀
 
-![Dashboard](img1.png)
+![Dashboard](pic1.png)
 
 
-![Dashboard](img2.png)
+![Dashboard](pic2.png)
 
 
 ## License🗝
