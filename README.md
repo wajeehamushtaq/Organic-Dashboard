@@ -22,6 +22,8 @@ https://docs.google.com/spreadsheets/d/1vcDPrMexD8bxNwwzK9IxF8wch6Hfezq2eooJACDi
 | Windows            	| 10      	| Excellent virus protection. Full control over Windows 10. Lighter and faster operating system.<br> Possible privacy problems.                                                                                           	|
 | Gitbash            	| latest  	| A shell is a terminal application used to interface with an operating system through written commands. <br>Git Bash is a package that installs Bash, some common bash utilities, and Git on a Windows operating system. 	|
 | Visual Studio Code 	| 2018    	| Fast and powerful code editor for developers                                                                                                                                                                            	|
+## Purpose:
+Data which can be called as the new world currency, is everywhere, such as on product labels, in an organization’s reports, and in different equipment (sensors, controllers, etc.). Hence, it can be difficult to present data in an appropriate way. Especially so when it concerns complex data formats. Hence, the best way to represent the data is using the charts, graphs, diagrams, data grids, and other tools which is what a dashboard has.
 
 ## Set up Environment🔥
 Using Git Bash
